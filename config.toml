@@ -1,11 +1,11 @@
-base_url = "https://blog.rvind.dev"
+base_url = "https://blog.rvind.cc"
 compile_sass = true
 build_search_index = true
 generate_feeds = true
 title = "Tangents"
 description = "A blog on computer science, mathematics, music, and various other things."
 
-author = "contact@rvind.dev (Arvind Venkatesh)"
+author = "contact@rvind.cc (Arvind Venkatesh)"
 
 feed_filenames = ["rss.xml"]
 
